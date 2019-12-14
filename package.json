@@ -1,0 +1,25 @@
+{
+  "name": "react-native-stories",
+  "version": "1.0.0",
+  "description": "Whatsapp, Instagram like story component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "^0.61.2"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "story",
+    "whatsapp",
+    "instagram"
+  ],
+  "author": "Anshuman Bhardwaj",
+  "license": "MIT"
+}
