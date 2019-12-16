@@ -11,9 +11,9 @@
     "url": "https://github.com/letsjynx/react-native-stories.git"
   },
   "homepage": "https://jynxit.us",
-  "dependencies": {
-    "react": "16.9.0",
-    "react-native": "^0.61.2"
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "prop-types": "^15.6.2"
